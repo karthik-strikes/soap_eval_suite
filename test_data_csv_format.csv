@@ -1,0 +1,22 @@
+patient_convo,soap_notes,age,gender,chief_complaint
+"Doctor: Hello, what's bothering you today? Patient: I've been having stomach pain and nausea since yesterday. Doctor: Where is the pain located? Patient: Right here in my upper abdomen, and it's getting worse after I eat. Doctor: Any vomiting? Patient: Yes, I threw up this morning. Doctor: Any fever? Patient: I felt a little warm but didn't take my temperature. Doctor: Let me examine you. Your abdomen is tender in the upper right area. Temperature is 100.2 degrees.","SUBJECTIVE: Patient reports abdominal pain and nausea since yesterday. Pain located in upper abdomen, worsens with eating. One episode of vomiting this morning. Reports subjective fever.
+
+OBJECTIVE: Temperature 100.2°F. Upper right abdominal tenderness on palpation.
+
+ASSESSMENT: Acute abdominal pain, possible gastritis or cholecystitis.
+
+PLAN: NPO for now, IV fluids, pain medication. Consider ultrasound if symptoms persist.",35,female,stomach pain
+"Doctor: What brings you in? Patient: I cut my finger while cooking yesterday and it's not healing well. Doctor: Let me see the cut. Patient: It's on my index finger, about an inch long. Doctor: Is it bleeding? Patient: It stopped bleeding but it looks red and swollen today. Doctor: Any pus or drainage? Patient: A little bit of yellow stuff this morning. Doctor: When was your last tetanus shot? Patient: I think about 5 years ago. Doctor: The cut looks infected. It's red, swollen, and has some purulent drainage.","SUBJECTIVE: Patient sustained laceration to index finger while cooking yesterday. Reports wound appears red and swollen with purulent drainage noted this morning. Last tetanus vaccination approximately 5 years ago.
+
+OBJECTIVE: 1-inch laceration on index finger with erythema, edema, and purulent drainage. No streaking noted.
+
+ASSESSMENT: Infected laceration of index finger.
+
+PLAN: Clean and dress wound, prescribe oral antibiotics, tetanus booster, wound care instructions. Follow up in 3 days.",42,male,infected cut
+"Doctor: How can I help you today? Patient: I've been feeling really tired lately and my joints hurt. Doctor: How long have you been feeling this way? Patient: About 2 weeks now. The fatigue is really bad in the mornings. Doctor: Which joints hurt? Patient: Mostly my hands and knees, they're stiff when I wake up. Doctor: Any rash or fever? Patient: No rash, but I had a low fever a few days ago. Doctor: Let me check your joints. Your hands show some swelling in the small joints. Your knees also seem a bit swollen.","SUBJECTIVE: 2-week history of fatigue (worse in mornings) and joint pain affecting hands and knees. Reports morning stiffness. Had low-grade fever several days ago. Denies rash.
+
+OBJECTIVE: Bilateral swelling noted in small joints of hands and knees. No rash observed.
+
+ASSESSMENT: Polyarticular joint pain with systemic symptoms, differential includes viral arthritis, early rheumatoid arthritis.
+
+PLAN: Laboratory studies including CBC, ESR, CRP, RF, and anti-CCP antibodies. NSAIDs for symptom relief. Rheumatology referral if symptoms persist.",38,female,joint pain and fatigue

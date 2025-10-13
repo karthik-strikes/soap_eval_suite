@@ -1,0 +1,9 @@
+{
+  "patient_convo": "Doctor: Hi there, what seems to be the problem today? Patient: I've been having trouble sleeping and feeling anxious for the past month. Doctor: Tell me more about the anxiety. Patient: I worry about everything - work, family, money. My heart races and I get sweaty palms. Doctor: How many hours of sleep are you getting? Patient: Maybe 3-4 hours a night. I lie awake thinking about all my problems. Doctor: Any changes in appetite? Patient: I'm not eating much, lost about 10 pounds. Doctor: Are you taking any medications? Patient: Just some over-the-counter sleep aids, but they don't help much. Doctor: Have you had any major life changes recently? Patient: Yes, I started a new job last month and it's very stressful.",
+  "soap_notes": "SUBJECTIVE: Patient reports 1-month history of insomnia and generalized anxiety. Sleep reduced to 3-4 hours nightly due to racing thoughts about work, family, and finances. Physical symptoms include palpitations and diaphoresis. Decreased appetite with 10-pound weight loss. Started stressful new job 1 month ago. Currently using OTC sleep aids with minimal benefit.\n\nOBJECTIVE: Patient appears anxious and fatigued. Weight loss of 10 pounds noted.\n\nASSESSMENT: Generalized anxiety disorder with insomnia, likely related to recent job stress.\n\nPLAN: Discuss stress management techniques and sleep hygiene. Consider short-term anxiolytic medication. Refer to counseling services. Follow up in 2 weeks to assess response to treatment.",
+  "patient_metadata": {
+    "age": 29,
+    "gender": "female",
+    "chief_complaint": "anxiety and insomnia"
+  }
+}

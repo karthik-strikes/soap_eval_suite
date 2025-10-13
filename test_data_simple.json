@@ -1,0 +1,29 @@
+[
+  {
+    "patient_convo": "Doctor: Hello, what brings you in today? Patient: I've been having chest pain for the past 2 hours. It started suddenly while I was watching TV. Doctor: Can you describe the pain? Patient: It's a sharp, stabbing pain in the center of my chest. It gets worse when I breathe deeply. Doctor: Any shortness of breath? Patient: Yes, a little bit. Doctor: Any nausea or sweating? Patient: No, just the chest pain and some difficulty breathing. Doctor: Let me check your vital signs. Your blood pressure is 140 over 90, heart rate is 95, and oxygen saturation is 98%. Doctor: I'm going to order an EKG and some blood tests to rule out a heart attack.",
+    "soap_notes": "SUBJECTIVE: 45-year-old patient presents with acute onset chest pain that began 2 hours ago while at rest. Pain is described as sharp and stabbing, located in the center of the chest, worsened by deep inspiration. Patient reports mild shortness of breath. Denies nausea, diaphoresis, or radiation of pain.\n\nOBJECTIVE: Vital signs: BP 140/90, HR 95, O2 sat 98%. Patient appears uncomfortable but in no acute distress.\n\nASSESSMENT: Acute chest pain, differential diagnosis includes acute coronary syndrome, pulmonary embolism, or musculoskeletal pain.\n\nPLAN: Order EKG and cardiac enzymes to rule out myocardial infarction. Monitor vital signs. Consider chest X-ray if symptoms persist.",
+    "patient_metadata": {
+      "age": 45,
+      "gender": "male",
+      "chief_complaint": "chest pain"
+    }
+  },
+  {
+    "patient_convo": "Doctor: Good morning, how are you feeling today? Patient: Not great, I've had this terrible headache for 3 days now. Doctor: Tell me more about the headache. Patient: It's throbbing, mostly on the right side of my head. The pain is about 8 out of 10. Doctor: Any nausea or vomiting? Patient: Yes, I threw up twice yesterday. Doctor: Any sensitivity to light? Patient: Yes, bright lights make it much worse. Doctor: Have you had headaches like this before? Patient: I get migraines sometimes, but this is much worse than usual. Doctor: Let me examine you. Your blood pressure is normal at 120 over 80. No fever. Neck is slightly stiff. Doctor: I think this might be a severe migraine, but we should do a CT scan to be safe.",
+    "soap_notes": "SUBJECTIVE: Patient reports severe headache for 3 days duration. Pain is throbbing, predominantly right-sided, rated 8/10 in intensity. Associated with nausea, vomiting (2 episodes yesterday), and photophobia. History of migraines but states this episode is more severe than usual.\n\nOBJECTIVE: BP 120/80, afebrile. Mild neck stiffness noted on examination. Patient appears uncomfortable and avoids bright lights.\n\nASSESSMENT: Severe headache, likely migraine but concerning features warrant further evaluation to rule out secondary causes.\n\nPLAN: CT head to rule out intracranial pathology. Prescribe anti-emetic and pain medication. Follow up in 24 hours if symptoms persist.",
+    "patient_metadata": {
+      "age": 32,
+      "gender": "female",
+      "chief_complaint": "severe headache"
+    }
+  },
+  {
+    "patient_convo": "Doctor: What can I help you with today? Patient: I think I have a cold. I've been sneezing and have a runny nose for about a week. Doctor: Any fever? Patient: No fever, just feeling a bit tired. Doctor: Sore throat? Patient: A little bit, mostly in the morning. Doctor: Any cough? Patient: Yes, a dry cough that's been bothering me at night. Doctor: Let me take a look. Your throat looks slightly red but no white patches. Lungs sound clear. Temperature is normal at 98.6 degrees.",
+    "soap_notes": "SUBJECTIVE: Patient presents with upper respiratory symptoms for 1 week including rhinorrhea, sneezing, mild sore throat (worse in mornings), and dry cough (worse at night). Reports fatigue but denies fever.\n\nOBJECTIVE: Temperature 98.6°F. Throat mildly erythematous without exudate. Lungs clear to auscultation bilaterally. No lymphadenopathy.\n\nASSESSMENT: Viral upper respiratory infection (common cold).\n\nPLAN: Supportive care with rest, fluids, and over-the-counter symptom relief. Return if symptoms worsen or persist beyond 10 days.",
+    "patient_metadata": {
+      "age": 28,
+      "gender": "male",
+      "chief_complaint": "cold symptoms"
+    }
+  }
+]
