@@ -1,4 +1,4 @@
-# DeepScribe AI Evaluation Suite
+# Soap AI Evaluation Suite
 
 **A working evaluation system built with DSPy and LLMs for medical SOAP note quality assessment.**
 
