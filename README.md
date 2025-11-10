@@ -655,7 +655,7 @@ export ANTHROPIC_API_KEY="your-anthropic-key"
 ### **File Structure I Built**
 
 ```
-deepscribe_soap_eval/
+soap_eval_suite/
 ├── main.py                    # CLI interface with argparse
 ├── config.json               # Model and processing configuration
 ├── requirements.txt          # Python dependencies
@@ -765,7 +765,7 @@ See `results/sample_output_execution.txt` for the complete terminal output. Here
 $ python main.py --source "adesouza1/soap_notes" --samples 60 --batch-size 20 --mode both --evaluation-mode comprehensive
 
 ======================================================================
-DeepScribe SOAP Evaluation System
+SOAP Evaluation System
 ======================================================================
 Source:           adesouza1/soap_notes
 Samples:          60
